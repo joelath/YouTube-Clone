@@ -5,3 +5,5 @@ During the course, I completed 91 exercises developing my skills across differen
 - Flexbox
 - CSS alignment and position
 My intention for uploading this is not to claim it as my own creation, but rather to showcase my learning journey as a developer and commitment to continuous learning.
+You can view it here:
+https://joelath.github.io/YouTube-Clone/
